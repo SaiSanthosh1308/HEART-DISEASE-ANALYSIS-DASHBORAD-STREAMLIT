@@ -3,7 +3,7 @@
 An interactive dashboard for exploring heart disease risk factors and predicting diagnosis, built with **Python + Streamlit**. Upgraded from an earlier Excel version.
 
 🔗 **Live demo:** [https://heart-disease-analysis-dashborad-app-azcpkvhpgrqzzuk8hw8uhr.streamlit.app/]
-📊 **Excel version:** _[link to your original Excel repo]_
+📊 **Excel version:** [https://github.com/SaiSanthosh1308/HEART-DISEASE-ANALYSIS-DASHBORAD]
 
 ## Features
 
