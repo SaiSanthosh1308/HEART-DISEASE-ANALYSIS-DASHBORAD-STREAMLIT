@@ -44,3 +44,9 @@ streamlit run app.py
 ## About This Project
 
 This is a Python/Streamlit rebuild of an Excel dashboard I originally built for the same dataset, adding an interactive machine learning prediction layer — part of a broader effort to move from static Excel reporting to interactive, code-driven analytics tools as I build toward a data analyst role.
+
+## 📸 Dashboard Preview
+
+| **Explore Tab** | **Predict Tab (Before)** | **Predict Tab (Trained)** |
+| :---: | :---: | :---: |
+| Explore Tab Preview <img width="1400" height="1100" alt="explore_tab" src="https://github.com/user-attachments/assets/c481cf7c-a803-4e20-9845-f3eb5db965ce" />| Predict Tab Before Preview <img width="1400" height="1100" alt="predict_tab_before" src="https://github.com/user-attachments/assets/a6654d69-3b52-4b9a-9d1e-e37f602ed115" />| Predict Tab Trained Preview <img width="1400" height="1100" alt="predict_tab_trained" src="https://github.com/user-attachments/assets/e76b5cd2-05c5-4459-aa85-c554d1ac6f97" />|
